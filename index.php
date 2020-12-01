@@ -44,7 +44,7 @@
                 <div class="content">
                 
                   <div class="logo">
-                    <h1>SISTEMA WEB DE GESTIÓN DE EVENTOS </h1>
+                    <h1>SISTEMA WEB DE GESTIÓN DE EVENTOS</h1>
                     <h1>RECREATIVOS MEDIANTE ENTRADAS</h1>
                   </div>
                   <h2>EN CÓDIGO QR</h2>
@@ -78,7 +78,7 @@
       </div>
       
     </div>
-    <!-- JavaScript files-->
+    <!-- JavaScript files Principales-->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/popper.js/umd/popper.min.js"> </script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
