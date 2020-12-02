@@ -1,7 +1,7 @@
 <?php
 
 include('dbcon.php');
-//Start session
+//Start sessions
 
 session_start();
  
