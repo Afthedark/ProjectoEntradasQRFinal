@@ -1,7 +1,7 @@
 <?php include('session.php');
 
          
-                    //set it to writable location, a place for temp generated PNG files
+                    //setttt it to writable location, a place for temp generated PNG files
                     $PNG_TEMP_DIR = dirname(__FILE__).DIRECTORY_SEPARATOR.'temp'.DIRECTORY_SEPARATOR;
                     
                     //html PNG location prefix
