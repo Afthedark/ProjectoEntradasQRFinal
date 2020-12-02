@@ -1,6 +1,6 @@
 <?php
 /*
- * PHP QR Code encoder
+ * PHP QR Code encoder ..
  *
  * Toolset, handy and debug utilites.
  *
