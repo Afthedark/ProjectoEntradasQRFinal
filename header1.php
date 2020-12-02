@@ -12,7 +12,7 @@
     <!-- data table -->
      
      
-    <!-- Bootstrap CSS-->
+    <!-- Bootstrap CSSS-->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome CSS-->
     <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
